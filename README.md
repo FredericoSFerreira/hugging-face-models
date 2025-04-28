@@ -107,7 +107,3 @@ Você pode instalar as dependências usando o pip. É recomendado instalar o PyT
 ##   Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
-
-##   Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE) (Adicione o arquivo LICENSE se você tiver um).
